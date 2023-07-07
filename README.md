@@ -1,11 +1,18 @@
-### Hi there 👋
+### 👋 안녕하세요. 백엔드 개발자 한주덕입니다!
+
+- 🔭 왜? 어떻게? 질문은 나를 성장시킵니다.
+- 🌱 확장성과 가독성이 있는 코드가 나중에 덜 피곤해지는 것을 경험하고 있습니다.
+- 👯 피드백은 소중한 의견 공유라고 생각합니다.
+
+🤔 I’m currently working on [FKREAM](https://github.com/f-lab-edu/FKREAM)
+🌱 I’m currently learning 대규모 시스템 설계 구조
 
 <!--
 **bfinecpa/bfinecpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
